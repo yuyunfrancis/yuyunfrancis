@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer | 🌍 Social Impact Advocate | 🎓 CMU Graduate Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/yuyunfrancis/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:francisyuyun04@gmail.com)
 
 ## 🚀 About Me
@@ -14,7 +14,7 @@ I'm a passionate software engineer with 2+ years of experience in full-stack dev
 - 🏥 Leading an AI-driven e-health platform for early breast cancer detection
 - 🌱 Building scalable solutions with React.js, Node.js, and Express
 - 🔧 Implementing CI/CD pipelines and containerization with Docker & Kubernetes
-- 🤖 Developing ML models for healthcare and agricultural applications
+- 🤖 Developing ML models for healthcare solutions
 - 👥 Mentoring and supporting underprivileged youth in tech education
 
 ## 🛠️ Tech Stack
@@ -45,11 +45,7 @@ I'm always excited to collaborate on projects that make a positive impact. Wheth
 - 🎨 UI/UX Design
 - 🌍 Social Impact Initiatives
 
-Reach out to me at francisyuyun04@gmail.com or connect on [LinkedIn](Your-LinkedIn-URL)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyunfrancis&show_icons=true&theme=radical)
+Reach out to me at francisyuyun04@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/yuyunfrancis/)
 
 ---
 *"Using technology to create positive change, one line of code at a time."*
